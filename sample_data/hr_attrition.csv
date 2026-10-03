@@ -1,0 +1,161 @@
+Employee_ID,Department,Job_Role,Age,Monthly_Salary,Tenure_Years,Performance_Rating,Overtime,Attrition
+EMP-5001,Finance,Financial Analyst,54,13444.39,14,4,No,Yes
+EMP-5002,Product,UX Designer,37,14742.35,6,3,No,No
+EMP-5003,Product,UX Designer,37,8309.58,2,4,No,Yes
+EMP-5004,Product,UX Designer,42,13160.24,2,5,Yes,No
+EMP-5005,Product,Product Manager,57,,9,3,No,No
+EMP-5006,Customer Success,CS Specialist,51,9099.09,6,3,No,No
+EMP-5007,Marketing,Growth Marketer,45,12448.55,12,3,No,Yes
+EMP-5008,Marketing,Growth Marketer,57,10457.18,9,3,Yes,No
+EMP-5009,Product,Product Manager,48,6404.89,2,3,No,No
+EMP-5010,Product,Product Manager,51,16347.21,14,5,No,No
+EMP-5011,Product,Product Manager,59,11220.95,2,4,No,No
+EMP-5012,Customer Success,CS Specialist,53,8552.39,1,3,No,No
+EMP-5013,Product,Product Manager,59,11253.6,3,3,Yes,No
+EMP-5014,Customer Success,Technical Support,54,13077.36,15,4,No,No
+EMP-5015,Marketing,Growth Marketer,50,9900.36,13,4,No,No
+EMP-5016,Customer Success,Technical Support,57,9841.29,11,3,No,No
+EMP-5017,Finance,Financial Analyst,33,12025.17,9,5,No,No
+EMP-5018,Marketing,Growth Marketer,59,16166.86,10,5,No,No
+EMP-5019,Customer Success,Technical Support,49,8778.77,13,3,Yes,No
+EMP-5020,Engineering,Data Engineer,25,7362.9,4,3,No,No
+EMP-5021,Sales,Account Executive,40,11888.42,4,3,No,No
+EMP-5022,Engineering,Data Engineer,57,11166.06,14,5,No,No
+EMP-5023,Finance,Accountant,25,8428.72,4,4,No,No
+EMP-5024,Engineering,Software Engineer,38,10651.22,4,4,No,No
+EMP-5025,Finance,Accountant,59,13847.59,9,3,No,No
+EMP-5026,Sales,SDR,26,13411.02,3,5,Yes,No
+EMP-5027,Product,UX Designer,57,6509.62,5,4,No,Yes
+EMP-5028,Product,Product Manager,24,13096.24,3,4,Yes,No
+EMP-5029,Finance,Accountant,53,13985.9,13,4,Yes,No
+EMP-5030,Marketing,Content Strategist,33,7614.04,9,4,No,No
+EMP-5031,Customer Success,Technical Support,27,7777.14,6,3,No,No
+EMP-5032,Marketing,Content Strategist,55,15828.67,8,5,Yes,No
+EMP-5033,Marketing,Growth Marketer,37,15473.06,15,4,No,No
+EMP-5034,Finance,Accountant,46,16904.72,15,3,No,No
+EMP-5035,Finance,Accountant,23,8846.87,2,4,No,No
+EMP-5036,Marketing,Content Strategist,42,7745.81,9,3,No,No
+EMP-5037,Customer Success,CS Specialist,26,11114.12,4,3,No,No
+EMP-5038,Sales,SDR,49,15415.82,11,3,No,Yes
+EMP-5039,Finance,Accountant,24,4721.21,2,3,No,No
+EMP-5040,Customer Success,CS Specialist,38,9748.7,7,5,No,No
+EMP-5041,Engineering,DevOps Specialist,29,6614.86,8,5,Yes,No
+EMP-5042,Customer Success,CS Specialist,26,13930.84,5,3,No,No
+EMP-5043,Marketing,Content Strategist,40,17278.23,13,4,No,No
+EMP-5044,Engineering,DevOps Specialist,32,9024.75,9,5,No,No
+EMP-5045,Customer Success,Technical Support,31,11598.79,5,5,No,No
+EMP-5046,Engineering,Data Engineer,57,5606.09,3,3,No,No
+EMP-5047,Engineering,DevOps Specialist,35,15135.3,12,5,No,No
+EMP-5048,Finance,Financial Analyst,32,6513.33,3,4,No,No
+EMP-5049,Finance,Financial Analyst,57,12555.47,8,3,No,No
+EMP-5050,Marketing,Content Strategist,34,13639.54,12,4,No,No
+EMP-5051,Finance,Financial Analyst,28,11061.5,5,3,No,No
+EMP-5052,Marketing,Growth Marketer,59,,3,4,No,No
+EMP-5053,Sales,Account Executive,42,12186.64,4,5,No,No
+EMP-5054,Marketing,Content Strategist,43,13963.57,15,4,No,No
+EMP-5055,Product,Product Manager,33,13461.64,11,4,No,No
+EMP-5056,Sales,Sales Lead,26,6001.22,5,3,Yes,No
+EMP-5057,Customer Success,Technical Support,59,13308.62,4,4,No,No
+EMP-5058,Customer Success,Technical Support,31,9370.23,6,4,No,No
+EMP-5059,Customer Success,CS Specialist,47,10390.16,6,5,No,No
+EMP-5060,Customer Success,CS Specialist,54,8609.85,3,3,No,No
+EMP-5061,Product,UX Designer,24,11541.69,3,3,Yes,Yes
+EMP-5062,Sales,Account Executive,35,15421.85,9,4,No,No
+EMP-5063,Product,Product Manager,24,7473.86,3,5,No,No
+EMP-5064,Marketing,Content Strategist,46,11340.22,11,4,Yes,No
+EMP-5065,Product,Product Manager,55,9421.95,7,4,No,No
+EMP-5066,Customer Success,CS Specialist,54,10792.41,15,3,No,Yes
+EMP-5067,Finance,Accountant,35,6198.22,3,4,Yes,No
+EMP-5068,Product,UX Designer,29,12839.63,8,4,No,No
+EMP-5069,Finance,Accountant,23,4441.24,2,4,No,No
+EMP-5070,Customer Success,CS Specialist,58,4979.98,3,4,No,No
+EMP-5071,Product,Product Manager,40,6054.32,2,4,No,No
+EMP-5072,Sales,Account Executive,48,8727.22,10,4,No,No
+EMP-5073,Customer Success,Technical Support,32,14196.0,11,4,Yes,No
+EMP-5074,Product,Product Manager,28,5501.84,1,4,No,No
+EMP-5075,Customer Success,CS Specialist,33,14944.96,8,4,Yes,No
+EMP-5076,Customer Success,CS Specialist,27,11852.35,6,4,Yes,No
+EMP-5077,Finance,Accountant,55,9584.51,7,3,No,No
+EMP-5078,Product,UX Designer,44,14882.98,10,5,Yes,No
+EMP-5079,Marketing,Growth Marketer,36,17489.2,15,4,No,No
+EMP-5080,Engineering,Data Engineer,22,8479.63,1,4,Yes,No
+EMP-5081,Sales,SDR,42,9509.11,7,3,No,No
+EMP-5082,Marketing,Growth Marketer,56,11391.43,7,4,No,No
+EMP-5083,Product,Product Manager,48,14269.23,9,4,No,No
+EMP-5084,Customer Success,Technical Support,38,10672.16,5,5,No,No
+EMP-5085,Finance,Financial Analyst,36,13842.92,8,3,Yes,Yes
+EMP-5086,Product,UX Designer,57,13882.63,10,5,Yes,No
+EMP-5087,Finance,Financial Analyst,27,7071.55,6,4,No,Yes
+EMP-5088,Marketing,Content Strategist,45,9703.97,2,5,No,No
+EMP-5089,Product,UX Designer,60,12415.16,1,3,No,No
+EMP-5090,Sales,SDR,55,7111.14,5,4,No,No
+EMP-5091,Finance,Financial Analyst,45,10971.68,4,3,Yes,No
+EMP-5092,Product,UX Designer,47,11590.55,7,4,Yes,No
+EMP-5093,Engineering,Software Engineer,57,12053.09,5,4,No,No
+EMP-5094,Marketing,Content Strategist,60,9109.26,4,4,Yes,No
+EMP-5095,Product,Product Manager,57,8719.47,2,4,Yes,No
+EMP-5096,Marketing,Growth Marketer,50,11377.47,7,3,No,No
+EMP-5097,Product,UX Designer,59,9334.36,14,3,No,Yes
+EMP-5098,Finance,Financial Analyst,36,11596.3,13,4,Yes,No
+EMP-5099,Marketing,Content Strategist,40,7750.05,2,5,No,Yes
+EMP-5100,Sales,Sales Lead,42,7752.67,6,4,No,No
+EMP-5101,Finance,Financial Analyst,53,10096.9,12,5,No,No
+EMP-5102,Sales,Account Executive,34,10982.17,13,4,No,No
+EMP-5103,Engineering,Software Engineer,27,14608.75,6,4,Yes,No
+EMP-5104,Customer Success,CS Specialist,52,11492.21,6,4,No,No
+EMP-5105,Customer Success,Technical Support,47,11856.58,4,3,Yes,No
+EMP-5106,Product,UX Designer,56,8293.02,1,4,No,No
+EMP-5107,Engineering,Data Engineer,55,9495.56,8,3,Yes,No
+EMP-5108,Product,Product Manager,42,11418.84,6,4,No,No
+EMP-5109,Sales,Sales Lead,52,10590.8,10,3,No,No
+EMP-5110,Product,UX Designer,45,12805.51,14,4,No,No
+EMP-5111,Customer Success,CS Specialist,28,8650.53,7,3,No,No
+EMP-5112,Sales,Account Executive,31,14052.72,8,3,No,No
+EMP-5113,Finance,Accountant,53,7634.06,5,4,Yes,No
+EMP-5114,Finance,Financial Analyst,25,12448.51,4,4,Yes,No
+EMP-5115,Marketing,Growth Marketer,45,10931.26,6,4,No,Yes
+EMP-5116,Engineering,DevOps Specialist,60,10244.74,4,5,No,No
+EMP-5117,Marketing,Growth Marketer,42,12567.13,11,5,No,No
+EMP-5118,Product,UX Designer,51,16716.33,11,3,No,No
+EMP-5119,Customer Success,Technical Support,26,5546.6,2,3,No,No
+EMP-5120,Marketing,Growth Marketer,60,11497.73,11,4,No,No
+EMP-5121,Customer Success,Technical Support,48,6170.14,3,3,No,No
+EMP-5122,Finance,Accountant,27,6432.27,4,3,Yes,Yes
+EMP-5123,Product,Product Manager,23,7732.22,2,3,Yes,Yes
+EMP-5124,Sales,Account Executive,46,7433.01,5,5,No,No
+EMP-5125,Sales,Account Executive,55,10666.65,14,3,No,No
+EMP-5126,Marketing,Growth Marketer,51,14107.43,14,4,No,No
+EMP-5127,Finance,Financial Analyst,59,11645.85,10,5,No,No
+EMP-5128,Finance,Accountant,44,11578.91,8,3,No,No
+EMP-5129,Product,UX Designer,31,5398.17,5,4,No,No
+EMP-5130,Product,Product Manager,53,13096.72,13,3,No,No
+EMP-5131,Customer Success,CS Specialist,22,7094.89,1,4,No,No
+EMP-5132,Sales,SDR,46,12598.73,14,4,Yes,No
+EMP-5133,Sales,SDR,39,11330.65,5,4,No,No
+EMP-5134,Engineering,Software Engineer,30,6326.31,5,4,No,No
+EMP-5135,Customer Success,Technical Support,34,5900.38,6,3,Yes,Yes
+EMP-5136,Engineering,DevOps Specialist,39,11111.32,3,5,Yes,No
+EMP-5137,Sales,Account Executive,53,8059.79,4,4,No,No
+EMP-5138,Product,Product Manager,43,11884.98,2,3,Yes,Yes
+EMP-5139,Product,Product Manager,56,8248.91,8,4,No,No
+EMP-5140,Engineering,Data Engineer,37,13312.4,7,4,No,No
+EMP-5141,Engineering,Software Engineer,51,15410.26,12,4,No,No
+EMP-5142,Finance,Accountant,42,10311.23,3,3,Yes,Yes
+EMP-5143,Finance,Accountant,34,13973.93,6,5,No,No
+EMP-5144,Sales,SDR,49,5860.13,6,4,Yes,No
+EMP-5145,Sales,Account Executive,24,11746.32,3,4,No,No
+EMP-5146,Engineering,Software Engineer,32,7410.03,8,4,No,No
+EMP-5147,Finance,Financial Analyst,25,10874.55,4,5,Yes,No
+EMP-5148,Sales,Sales Lead,57,14655.21,13,4,No,No
+EMP-5149,Engineering,Data Engineer,46,12456.91,6,4,Yes,No
+EMP-5150,Product,UX Designer,56,12797.86,12,4,No,No
+EMP-5151,Marketing,Growth Marketer,39,16811.55,14,4,No,Yes
+EMP-5152,Sales,Sales Lead,40,11529.15,14,4,No,Yes
+EMP-5153,Finance,Accountant,33,8414.09,12,4,No,No
+EMP-5154,Engineering,Data Engineer,56,12683.66,14,4,No,No
+EMP-5155,Sales,SDR,40,9531.18,6,4,Yes,No
+EMP-5156,Finance,Financial Analyst,24,13181.54,3,3,Yes,Yes
+EMP-5157,Product,Product Manager,28,8930.41,1,4,No,No
+EMP-5158,Finance,Accountant,25,6932.72,4,5,Yes,Yes
+EMP-5159,Sales,SDR,53,17774.84,15,3,No,No
+EMP-5160,Engineering,DevOps Specialist,57,16965.67,12,4,No,No

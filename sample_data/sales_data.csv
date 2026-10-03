@@ -1,0 +1,251 @@
+Order_ID,Date,Region,Customer_Segment,Category,Sub_Category,Sales,Profit,Quantity,Discount,Payment_Method
+ORD-2025001,2025-01-13,Asia Pacific,Consumer,Office Supplies,Paper,271.45,49.75,3,0.3,PayPal
+ORD-2025002,2025-01-17,North America,Consumer,Office Supplies,Art,258.4,79.11,4,0.0,PayPal
+ORD-2025003,2025-08-03,Europe,Corporate,Office Supplies,Appliances,92.99,18.42,1,0.05,Wire Transfer
+ORD-2025004,2025-06-22,North America,Consumer,Technology,Phones,642.32,190.68,2,0.1,Direct Debit
+ORD-2025005,2025-10-02,North America,Corporate,Office Supplies,Art,367.52,88.51,9,0.3,Credit Card
+ORD-2025006,2025-12-27,North America,Consumer,Office Supplies,Binders,591.72,123.01,5,0.05,PayPal
+ORD-2025007,2025-03-25,Asia Pacific,Corporate,Furniture,Bookcases,1724.7,336.08,11,0.3,PayPal
+ORD-2025008,2025-03-25,Latin America,Corporate,Technology,Phones,6520.07,2100.66,11,0.05,Wire Transfer
+ORD-2025009,2025-01-17,Asia Pacific,Corporate,Technology,Phones,398.12,64.28,2,0.2,Wire Transfer
+ORD-2025010,2025-07-22,Latin America,Consumer,Office Supplies,Art,106.87,26.86,3,0.2,Wire Transfer
+ORD-2025011,2025-07-05,Europe,Consumer,Furniture,Furnishings,704.63,113.86,2,0.0,Direct Debit
+ORD-2025012,2025-11-02,North America,Corporate,Office Supplies,Art,1195.66,252.37,10,0.2,Direct Debit
+ORD-2025013,2025-12-16,Asia Pacific,Small Business,Technology,Laptops,534.28,186.78,2,0.05,Wire Transfer
+ORD-2025014,2025-09-14,Europe,Small Business,Office Supplies,Storage,455.68,54.77,11,0.3,Credit Card
+ORD-2025015,2025-10-04,North America,Small Business,Furniture,Tables,462.33,139.91,8,,Wire Transfer
+ORD-2025016,2025-01-30,Europe,Small Business,Furniture,Tables,685.53,177.21,2,0.0,Credit Card
+ORD-2025017,2025-12-04,Latin America,Small Business,Technology,Phones,2301.65,322.36,5,0.2,PayPal
+ORD-2025018,2026-01-01,Asia Pacific,Corporate,Office Supplies,Binders,870.05,-87.67,8,0.15,Wire Transfer
+ORD-2025019,2025-10-29,Europe,Small Business,Furniture,Chairs,78.4,-7.71,1,0.3,PayPal
+ORD-2025020,2025-02-06,Europe,Corporate,Technology,Accessories,1879.47,353.21,4,0.3,Direct Debit
+ORD-2025021,2025-08-31,Latin America,Consumer,Furniture,Tables,627.19,136.28,2,0.1,Credit Card
+ORD-2025022,2025-12-11,North America,Consumer,Office Supplies,Paper,552.02,93.54,12,0.0,Direct Debit
+ORD-2025023,2025-08-05,,Corporate,Furniture,Tables,1599.18,550.04,4,0.0,Direct Debit
+ORD-2025024,2025-01-26,North America,Consumer,Office Supplies,Paper,160.56,30.61,3,0.15,PayPal
+ORD-2025025,2025-07-14,North America,Corporate,Technology,Phones,2082.64,552.25,8,0.3,Wire Transfer
+ORD-2025026,2025-03-21,Europe,Corporate,Office Supplies,Art,72.87,-6.18,1,0.2,PayPal
+ORD-2025027,2025-09-15,Europe,Consumer,Technology,Monitors,244.59,44.31,3,0.0,Credit Card
+ORD-2025028,2025-10-24,North America,Small Business,Technology,Phones,3971.33,1153.35,7,0.2,Credit Card
+ORD-2025029,2025-05-03,Asia Pacific,Corporate,Technology,Accessories,6132.92,1644.62,11,0.15,PayPal
+ORD-2025030,2025-08-23,North America,Consumer,Technology,Laptops,2194.11,688.4,9,0.1,PayPal
+ORD-2025031,2025-03-22,Latin America,Small Business,Furniture,Bookcases,4435.41,911.7,10,0.3,Wire Transfer
+ORD-2025032,2025-12-06,North America,Consumer,Office Supplies,Storage,215.3,28.76,2,0.3,Wire Transfer
+ORD-2025033,2025-06-25,Europe,Small Business,Office Supplies,Binders,564.44,-51.19,9,0.0,Wire Transfer
+ORD-2025034,2025-01-02,Asia Pacific,Consumer,Furniture,Chairs,1039.48,221.06,3,0.2,Wire Transfer
+ORD-2025035,2025-12-20,Europe,Small Business,Technology,Laptops,3033.42,377.15,6,0.05,Credit Card
+ORD-2025036,2025-07-03,Europe,Small Business,Furniture,Chairs,1002.29,180.94,11,0.2,PayPal
+ORD-2025037,2025-05-02,Europe,Consumer,Office Supplies,Binders,28.09,5.74,1,0.1,Direct Debit
+ORD-2025038,2025-05-17,Europe,Small Business,Office Supplies,Binders,739.78,208.96,7,0.15,Credit Card
+ORD-2025039,2025-06-06,Europe,Consumer,Furniture,Bookcases,1399.77,173.91,11,0.1,Credit Card
+ORD-2025040,2025-11-25,Latin America,Small Business,Furniture,Bookcases,96.14,32.04,1,0.1,Wire Transfer
+ORD-2025041,2025-02-25,Latin America,Corporate,Furniture,Chairs,2047.38,-39.42,7,0.2,Wire Transfer
+ORD-2025042,2025-01-23,Latin America,Consumer,Technology,Accessories,2284.92,451.08,6,,PayPal
+ORD-2025043,2025-06-03,Asia Pacific,Small Business,Office Supplies,Paper,318.41,48.68,6,0.1,Direct Debit
+ORD-2025044,2025-12-13,Europe,Small Business,Office Supplies,Art,485.58,84.81,7,0.0,Wire Transfer
+ORD-2025045,2025-12-02,Asia Pacific,Corporate,Office Supplies,Appliances,669.36,189.73,8,0.2,Direct Debit
+ORD-2025046,2025-12-04,North America,Corporate,Office Supplies,Binders,199.33,33.78,2,0.05,Wire Transfer
+ORD-2025047,2025-01-13,North America,Consumer,Technology,Phones,7260.34,2543.99,10,0.0,Direct Debit
+ORD-2025048,2025-12-23,Latin America,Corporate,Office Supplies,Binders,98.11,-3.08,4,0.3,Direct Debit
+ORD-2025049,2025-04-23,Europe,Small Business,Technology,Monitors,484.86,159.21,1,0.0,Direct Debit
+ORD-2025050,2025-10-14,Asia Pacific,Corporate,Office Supplies,Appliances,521.48,120.59,9,0.05,Direct Debit
+ORD-2025051,2025-11-23,Asia Pacific,Small Business,Furniture,Tables,1602.68,-149.85,11,0.15,Direct Debit
+ORD-2025052,2025-06-13,North America,Consumer,Furniture,Bookcases,812.86,105.56,4,0.05,PayPal
+ORD-2025053,2025-10-05,Latin America,Corporate,Furniture,Bookcases,1532.63,354.16,4,0.15,Credit Card
+ORD-2025054,2025-10-22,Latin America,Corporate,Office Supplies,Paper,248.67,77.76,6,0.15,Credit Card
+ORD-2025055,2025-09-07,Europe,Corporate,Furniture,Tables,492.88,145.28,8,0.1,Direct Debit
+ORD-2025056,2025-08-28,Europe,Small Business,Office Supplies,Binders,520.04,-21.85,7,0.3,Credit Card
+ORD-2025057,2025-04-04,North America,Corporate,Technology,Monitors,1197.72,375.89,6,0.1,Direct Debit
+ORD-2025058,2025-05-10,North America,Corporate,Furniture,Furnishings,3189.21,395.64,12,0.1,Credit Card
+ORD-2025059,2025-01-16,Europe,Consumer,Office Supplies,Paper,250.67,35.66,10,0.05,Credit Card
+ORD-2025060,2025-12-25,Asia Pacific,Corporate,Technology,Monitors,5259.79,1186.39,10,0.3,PayPal
+ORD-2025061,2025-02-25,North America,Corporate,Technology,Accessories,5611.99,-284.24,7,0.05,Direct Debit
+ORD-2025062,2025-02-22,Asia Pacific,Small Business,Office Supplies,Binders,956.55,251.38,10,0.1,Credit Card
+ORD-2025063,2025-01-07,Latin America,Corporate,Technology,Accessories,5723.55,959.68,7,0.3,Credit Card
+ORD-2025064,2025-04-01,Asia Pacific,Small Business,Technology,Monitors,3074.79,438.65,8,0.3,Direct Debit
+ORD-2025065,2025-05-23,Latin America,Consumer,Technology,Laptops,5285.24,1116.46,10,0.15,Direct Debit
+ORD-2025066,2025-09-07,Europe,Corporate,Furniture,Tables,971.18,149.04,6,0.2,Wire Transfer
+ORD-2025067,2025-02-13,Europe,Small Business,Technology,Phones,3864.16,1056.99,8,0.05,Direct Debit
+ORD-2025068,2025-01-09,North America,Corporate,Furniture,Furnishings,2287.0,444.48,7,0.1,PayPal
+ORD-2025069,2025-06-26,Latin America,Small Business,Office Supplies,Appliances,520.32,84.26,6,0.1,Wire Transfer
+ORD-2025070,2025-06-11,North America,Small Business,Office Supplies,Binders,128.94,29.95,4,0.15,PayPal
+ORD-2025071,2025-05-25,North America,Consumer,Office Supplies,Appliances,193.67,-13.11,4,0.1,Wire Transfer
+ORD-2025072,2025-01-28,Asia Pacific,Small Business,Furniture,Chairs,4371.23,-550.95,11,0.15,PayPal
+ORD-2025073,2025-09-03,Latin America,Corporate,Furniture,Furnishings,150.99,-18.08,1,0.15,PayPal
+ORD-2025074,2025-10-23,North America,Consumer,Furniture,Chairs,4296.5,647.9,10,0.0,PayPal
+ORD-2025075,2025-09-25,Latin America,Corporate,Furniture,Tables,1970.33,471.4,5,0.15,Direct Debit
+ORD-2025076,2025-04-17,Europe,Corporate,Office Supplies,Paper,104.59,-12.52,3,0.2,Credit Card
+ORD-2025077,2025-05-30,North America,Consumer,Furniture,Furnishings,1957.05,-195.16,12,0.15,Wire Transfer
+ORD-2025078,2025-08-06,North America,Small Business,Furniture,Tables,1205.55,150.34,11,0.1,PayPal
+ORD-2025079,2025-11-01,Asia Pacific,Corporate,Technology,Accessories,4745.27,633.73,8,0.3,Credit Card
+ORD-2025080,2025-08-13,North America,Small Business,Office Supplies,Art,631.87,72.66,7,0.2,Credit Card
+ORD-2025081,2025-10-28,North America,Small Business,Office Supplies,Appliances,125.06,34.38,10,0.05,Wire Transfer
+ORD-2025082,2025-10-27,Latin America,Small Business,Furniture,Tables,476.01,119.05,2,0.15,Direct Debit
+ORD-2025083,2025-07-30,Latin America,Corporate,Technology,Accessories,497.48,101.51,9,0.0,Direct Debit
+ORD-2025084,2025-12-03,Latin America,Corporate,Furniture,Chairs,1029.5,232.75,4,0.2,Credit Card
+ORD-2025085,2025-05-17,Europe,Corporate,Technology,Phones,5098.65,1418.99,12,0.0,Direct Debit
+ORD-2025086,2025-06-09,North America,Small Business,Technology,Phones,420.76,63.34,2,0.0,Direct Debit
+ORD-2025087,2025-05-30,Asia Pacific,Corporate,Technology,Monitors,1808.62,-178.42,8,0.2,Direct Debit
+ORD-2025088,2025-03-11,North America,Corporate,Office Supplies,Appliances,675.81,65.24,6,,Direct Debit
+ORD-2025089,2025-10-28,Latin America,Consumer,Office Supplies,Storage,560.22,131.74,9,0.1,Direct Debit
+ORD-2025090,2025-04-07,Europe,Small Business,Furniture,Bookcases,1569.62,-61.03,4,0.15,Direct Debit
+ORD-2025091,2025-07-17,Europe,Corporate,Office Supplies,Art,192.77,22.53,3,0.2,Credit Card
+ORD-2025092,2025-09-27,Latin America,Consumer,Furniture,Chairs,2788.61,-107.52,7,0.05,PayPal
+ORD-2025093,2025-11-16,Latin America,Small Business,Furniture,Bookcases,2345.62,379.68,6,0.2,Credit Card
+ORD-2025094,2025-10-05,North America,Small Business,Office Supplies,Art,314.76,89.0,4,0.1,Credit Card
+ORD-2025095,2025-11-21,North America,Corporate,Furniture,Chairs,2037.44,-78.52,12,0.0,PayPal
+ORD-2025096,2025-07-11,Latin America,Consumer,Furniture,Bookcases,1933.39,222.22,9,0.3,PayPal
+ORD-2025097,2025-11-14,Europe,Corporate,Technology,Monitors,1621.79,428.22,4,0.1,PayPal
+ORD-2025098,2025-12-13,Europe,Consumer,Furniture,Bookcases,2670.36,553.53,6,0.1,Direct Debit
+ORD-2025099,2025-06-04,Europe,Corporate,Furniture,Furnishings,289.76,45.65,2,0.2,Direct Debit
+ORD-2025100,2025-01-12,Latin America,Corporate,Office Supplies,Storage,1048.88,261.94,10,0.3,Credit Card
+ORD-2025101,2025-05-27,Europe,Small Business,Office Supplies,Art,317.2,80.3,4,0.2,Wire Transfer
+ORD-2025102,2025-11-18,North America,Small Business,Office Supplies,Binders,481.62,149.5,5,0.0,Credit Card
+ORD-2025103,2025-06-17,Latin America,Consumer,Technology,Accessories,2021.62,650.47,3,0.1,PayPal
+ORD-2025104,2025-09-04,Asia Pacific,Small Business,Technology,Accessories,822.75,-12.09,2,0.0,Wire Transfer
+ORD-2025105,2025-10-13,,Consumer,Office Supplies,Art,37.62,11.1,1,0.0,Direct Debit
+ORD-2025106,2025-10-27,Latin America,Small Business,Office Supplies,Storage,167.16,-3.72,2,0.15,Wire Transfer
+ORD-2025107,2025-11-09,Europe,Small Business,Office Supplies,Storage,1102.99,174.61,11,0.3,Credit Card
+ORD-2025108,2025-01-20,Asia Pacific,Corporate,Technology,Laptops,437.42,-30.27,2,0.2,Credit Card
+ORD-2025109,2025-08-03,Europe,Corporate,Office Supplies,Appliances,615.62,-54.37,8,0.1,Credit Card
+ORD-2025110,2025-05-01,Asia Pacific,Consumer,Furniture,Furnishings,3696.11,578.3,9,0.3,Wire Transfer
+ORD-2025111,2025-08-21,North America,Small Business,Technology,Laptops,6078.4,-627.95,11,0.0,PayPal
+ORD-2025112,2025-02-05,Europe,Small Business,Technology,Phones,1184.25,309.33,4,0.05,PayPal
+ORD-2025113,2025-03-08,Asia Pacific,Consumer,Furniture,Tables,4362.37,-163.29,11,0.05,Credit Card
+ORD-2025114,2025-01-09,Europe,Corporate,Technology,Accessories,1910.75,-215.69,3,0.2,Credit Card
+ORD-2025115,2025-09-20,North America,Corporate,Furniture,Bookcases,673.46,112.71,10,0.3,PayPal
+ORD-2025116,2025-09-03,Latin America,Corporate,Technology,Laptops,4901.85,-577.86,8,0.15,Credit Card
+ORD-2025117,2025-02-03,Europe,Corporate,Office Supplies,Binders,835.79,168.12,7,0.2,Wire Transfer
+ORD-2025118,2025-12-26,North America,Small Business,Furniture,Chairs,1614.35,513.96,7,0.05,PayPal
+ORD-2025119,2025-02-18,Asia Pacific,Corporate,Furniture,Furnishings,1671.52,386.36,11,0.05,Wire Transfer
+ORD-2025120,2025-02-17,Latin America,Consumer,Technology,Laptops,1452.02,309.03,3,0.2,Wire Transfer
+ORD-2025121,2025-07-30,Asia Pacific,Small Business,Office Supplies,Paper,165.14,31.42,12,0.1,Direct Debit
+ORD-2025122,2025-04-19,Europe,Small Business,Office Supplies,Appliances,411.58,79.85,4,0.1,Direct Debit
+ORD-2025123,2025-08-08,North America,Small Business,Furniture,Tables,122.17,30.75,1,0.3,Wire Transfer
+ORD-2025124,2025-04-03,Europe,Small Business,Furniture,Chairs,213.5,21.5,2,0.3,Direct Debit
+ORD-2025125,2025-07-12,Latin America,Corporate,Office Supplies,Binders,148.34,37.88,3,0.3,Wire Transfer
+ORD-2025126,2025-01-27,Europe,Consumer,Office Supplies,Paper,188.51,39.46,11,0.15,Credit Card
+ORD-2025127,2025-05-20,Europe,Small Business,Furniture,Furnishings,1331.79,328.68,6,0.1,Credit Card
+ORD-2025128,2025-01-24,Europe,Corporate,Office Supplies,Storage,30.9,9.35,1,0.05,Credit Card
+ORD-2025129,2025-03-03,North America,Corporate,Furniture,Bookcases,305.02,61.02,3,0.2,Direct Debit
+ORD-2025130,2025-02-06,Latin America,Small Business,Office Supplies,Storage,70.69,19.06,7,0.0,Credit Card
+ORD-2025131,2025-12-30,Latin America,Corporate,Office Supplies,Art,72.35,23.86,7,0.1,Credit Card
+ORD-2025132,2025-02-15,Latin America,Consumer,Furniture,Bookcases,1998.84,-44.98,7,0.2,PayPal
+ORD-2025133,2025-04-24,Asia Pacific,Consumer,Office Supplies,Storage,710.29,202.03,9,0.2,Credit Card
+ORD-2025134,2025-11-27,Europe,Consumer,Furniture,Bookcases,457.16,137.96,3,0.05,Credit Card
+ORD-2025135,2025-04-01,Latin America,Corporate,Office Supplies,Paper,1226.56,369.44,11,0.2,Direct Debit
+ORD-2025136,2025-03-19,Latin America,Consumer,Furniture,Bookcases,2420.43,460.74,8,0.1,Direct Debit
+ORD-2025137,2025-08-25,Latin America,Consumer,Technology,Accessories,4266.9,1596.31,6,0.0,Credit Card
+ORD-2025138,2025-08-25,North America,Corporate,Technology,Monitors,3144.78,342.37,6,0.2,PayPal
+ORD-2025139,2026-01-01,North America,Small Business,Technology,Accessories,229.39,49.97,1,0.15,PayPal
+ORD-2025140,2025-07-06,Asia Pacific,Corporate,Office Supplies,Binders,663.18,150.97,7,0.3,Direct Debit
+ORD-2025141,2025-02-03,Asia Pacific,Consumer,Office Supplies,Storage,181.12,35.08,5,0.3,Direct Debit
+ORD-2025142,2025-02-11,Europe,Corporate,Technology,Accessories,6613.71,-285.37,11,0.15,Wire Transfer
+ORD-2025143,2025-10-14,Latin America,Small Business,Technology,Accessories,1733.54,433.5,3,0.3,Wire Transfer
+ORD-2025144,2025-09-18,Asia Pacific,Consumer,Technology,Monitors,868.58,263.39,5,0.05,Wire Transfer
+ORD-2025145,2025-03-12,Europe,Consumer,Technology,Phones,887.69,248.38,2,0.2,Wire Transfer
+ORD-2025146,2025-11-13,Europe,Small Business,Technology,Accessories,476.56,110.2,3,0.3,Direct Debit
+ORD-2025147,2025-01-23,Latin America,Corporate,Technology,Monitors,4229.93,535.46,8,0.3,PayPal
+ORD-2025148,2025-08-29,Europe,Corporate,Technology,Accessories,5278.29,1026.75,8,0.15,Direct Debit
+ORD-2025149,2025-11-06,Europe,Corporate,Technology,Phones,4636.36,612.03,11,0.1,Credit Card
+ORD-2025150,2025-05-26,North America,Consumer,Office Supplies,Paper,875.15,119.59,8,0.05,Wire Transfer
+ORD-2025151,2025-06-28,North America,Corporate,Technology,Monitors,3074.09,412.41,7,0.05,Credit Card
+ORD-2025152,2025-06-13,North America,Small Business,Technology,Laptops,415.56,90.82,3,0.1,Wire Transfer
+ORD-2025153,2025-08-18,North America,Consumer,Technology,Monitors,1014.58,297.91,5,0.05,Credit Card
+ORD-2025154,2025-02-26,Asia Pacific,Consumer,Office Supplies,Art,26.7,6.4,2,0.15,Wire Transfer
+ORD-2025155,2025-09-13,North America,Small Business,Technology,Laptops,1721.41,-147.21,12,0.15,PayPal
+ORD-2025156,2025-04-06,North America,Small Business,Office Supplies,Art,229.56,69.23,2,0.2,Wire Transfer
+ORD-2025157,2025-07-19,Latin America,Consumer,Office Supplies,Paper,218.45,30.05,6,0.0,Direct Debit
+ORD-2025158,2025-10-25,Asia Pacific,Consumer,Technology,Laptops,2852.77,644.17,6,0.3,Credit Card
+ORD-2025159,2025-11-20,Europe,Consumer,Furniture,Furnishings,4325.71,-447.76,12,0.15,Credit Card
+ORD-2025160,2025-06-11,Asia Pacific,Small Business,Technology,Laptops,3739.99,634.63,9,0.0,Direct Debit
+ORD-2025161,2025-12-02,Asia Pacific,Corporate,Furniture,Chairs,1348.68,404.22,6,0.15,Credit Card
+ORD-2025162,2025-04-06,Latin America,Small Business,Furniture,Bookcases,2518.35,285.03,6,0.2,Direct Debit
+ORD-2025163,2025-08-09,Europe,Small Business,Furniture,Chairs,546.23,98.17,6,0.1,Wire Transfer
+ORD-2025164,2025-03-27,Latin America,Corporate,Office Supplies,Art,89.4,18.75,1,0.1,Direct Debit
+ORD-2025165,2025-02-08,Latin America,Corporate,Office Supplies,Paper,23.99,4.49,1,0.2,PayPal
+ORD-2025166,2025-05-01,Asia Pacific,Corporate,Technology,Laptops,517.18,180.16,10,0.05,Direct Debit
+ORD-2025167,2025-02-09,Europe,Small Business,Furniture,Furnishings,1230.28,165.53,7,0.1,Wire Transfer
+ORD-2025168,2025-09-13,Latin America,Small Business,Office Supplies,Binders,473.98,125.77,5,0.3,Credit Card
+ORD-2025169,2025-04-13,North America,Consumer,Furniture,Furnishings,952.5,95.23,8,0.3,Credit Card
+ORD-2025170,2025-12-08,Asia Pacific,Small Business,Office Supplies,Storage,618.51,169.82,9,0.1,Credit Card
+ORD-2025171,2025-07-05,Europe,Consumer,Office Supplies,Binders,103.54,-6.38,3,0.15,PayPal
+ORD-2025172,2025-10-10,Europe,Small Business,Furniture,Furnishings,347.43,62.43,2,0.3,Credit Card
+ORD-2025173,2025-03-06,Asia Pacific,Small Business,Furniture,Chairs,1890.67,526.77,8,0.2,Credit Card
+ORD-2025174,2025-04-04,Europe,Corporate,Office Supplies,Appliances,132.05,24.23,2,0.1,Credit Card
+ORD-2025175,2025-06-27,Asia Pacific,Consumer,Office Supplies,Binders,316.51,71.53,4,0.2,Wire Transfer
+ORD-2025176,2025-02-17,Europe,Small Business,Office Supplies,Appliances,245.33,35.68,3,0.3,PayPal
+ORD-2025177,2025-01-15,North America,Consumer,Office Supplies,Paper,347.72,79.6,11,0.2,Wire Transfer
+ORD-2025178,2025-11-25,Asia Pacific,Corporate,Furniture,Bookcases,2336.81,-281.28,11,0.15,PayPal
+ORD-2025179,2025-09-05,Latin America,Consumer,Furniture,Furnishings,1074.67,283.52,10,0.3,Wire Transfer
+ORD-2025180,2025-03-08,Asia Pacific,Small Business,Furniture,Furnishings,880.17,162.36,6,0.0,Credit Card
+ORD-2025181,2025-05-29,Latin America,Small Business,Technology,Laptops,3276.86,1129.33,4,0.05,Direct Debit
+ORD-2025182,2025-04-08,Europe,Corporate,Office Supplies,Storage,851.65,-12.79,8,0.15,Direct Debit
+ORD-2025183,2025-05-04,Europe,Small Business,Office Supplies,Art,13.66,3.94,1,0.15,Wire Transfer
+ORD-2025184,2025-05-27,North America,Consumer,Office Supplies,Art,320.51,50.45,3,0.3,Direct Debit
+ORD-2025185,2025-01-27,Europe,Corporate,Technology,Monitors,687.48,112.62,2,0.15,Wire Transfer
+ORD-2025186,2025-03-02,Europe,Consumer,Office Supplies,Appliances,582.17,112.68,6,0.1,Direct Debit
+ORD-2025187,2025-11-05,Latin America,Small Business,Technology,Phones,57.1,9.72,1,0.3,Credit Card
+ORD-2025188,2025-11-07,Europe,Corporate,Furniture,Tables,621.55,98.35,3,0.2,Wire Transfer
+ORD-2025189,2025-12-29,Asia Pacific,Corporate,Furniture,Furnishings,1094.98,297.57,6,0.0,Credit Card
+ORD-2025190,2025-11-02,Latin America,Corporate,Office Supplies,Paper,165.02,39.77,12,0.15,PayPal
+ORD-2025191,2025-03-17,Europe,Consumer,Office Supplies,Art,40.48,8.28,4,0.1,Credit Card
+ORD-2025192,2025-09-14,Latin America,Small Business,Technology,Monitors,1667.02,601.02,12,0.05,Credit Card
+ORD-2025193,2025-06-10,Europe,Corporate,Furniture,Furnishings,1725.43,397.31,9,0.3,Wire Transfer
+ORD-2025194,2025-04-09,Europe,Corporate,Furniture,Furnishings,1706.38,465.75,4,0.1,Wire Transfer
+ORD-2025195,2025-06-12,Latin America,Corporate,Office Supplies,Art,108.25,26.74,5,0.3,Wire Transfer
+ORD-2025196,2025-03-16,Asia Pacific,Consumer,Furniture,Bookcases,979.34,261.64,12,0.15,Wire Transfer
+ORD-2025197,2025-10-03,Asia Pacific,Small Business,Technology,Phones,345.34,44.25,3,0.3,Wire Transfer
+ORD-2025198,2025-04-26,Europe,Consumer,Office Supplies,Appliances,314.95,-11.27,7,0.15,Credit Card
+ORD-2025199,2025-07-28,Latin America,Corporate,Technology,Phones,1449.82,-43.01,5,0.3,PayPal
+ORD-2025200,2025-04-29,North America,Consumer,Office Supplies,Appliances,337.8,75.4,3,0.0,Direct Debit
+ORD-2025201,2025-05-29,North America,Consumer,Furniture,Tables,2911.13,988.18,10,0.1,Wire Transfer
+ORD-2025202,2025-09-10,Europe,Small Business,Office Supplies,Appliances,147.97,45.88,5,0.0,Direct Debit
+ORD-2025203,2025-04-06,North America,Small Business,Office Supplies,Storage,357.96,116.5,5,0.05,Wire Transfer
+ORD-2025204,2025-09-21,Asia Pacific,Consumer,Furniture,Furnishings,969.69,334.69,11,0.05,Direct Debit
+ORD-2025205,2025-07-16,Europe,Corporate,Technology,Accessories,1644.63,216.44,6,0.3,Wire Transfer
+ORD-2025206,2025-02-01,North America,Corporate,Furniture,Tables,636.5,178.64,3,0.2,Wire Transfer
+ORD-2025207,2025-11-24,Asia Pacific,Corporate,Furniture,Chairs,1731.78,462.82,4,0.15,PayPal
+ORD-2025208,2025-08-01,Latin America,Small Business,Office Supplies,Storage,336.79,38.07,4,0.2,PayPal
+ORD-2025209,2025-02-09,North America,Consumer,Furniture,Bookcases,2646.64,641.87,10,0.05,PayPal
+ORD-2025210,2025-10-26,Latin America,Consumer,Technology,Phones,399.08,85.12,1,0.2,Direct Debit
+ORD-2025211,2025-12-11,Asia Pacific,Small Business,Office Supplies,Art,255.49,69.07,7,0.0,Credit Card
+ORD-2025212,2025-06-26,North America,Small Business,Technology,Monitors,1677.13,-132.23,2,0.15,Credit Card
+ORD-2025213,2025-07-11,Latin America,Corporate,Technology,Monitors,638.44,69.08,7,0.3,Direct Debit
+ORD-2025214,2025-04-02,Latin America,Small Business,Furniture,Chairs,5297.88,1983.57,12,0.0,PayPal
+ORD-2025215,2025-09-30,Latin America,Consumer,Furniture,Furnishings,1507.71,471.61,8,0.1,PayPal
+ORD-2025216,2025-12-05,Latin America,Small Business,Technology,Laptops,780.07,184.15,4,0.0,Credit Card
+ORD-2025217,2025-05-06,North America,Corporate,Office Supplies,Paper,273.81,-2.99,4,0.0,Direct Debit
+ORD-2025218,2025-10-23,Asia Pacific,Consumer,Technology,Accessories,2514.6,398.57,3,0.2,Wire Transfer
+ORD-2025219,2025-11-17,Latin America,Small Business,Technology,Phones,827.14,187.77,1,0.3,Direct Debit
+ORD-2025220,2025-07-29,Europe,Corporate,Furniture,Furnishings,1055.3,160.2,3,0.15,Direct Debit
+ORD-2025221,2025-08-26,North America,Small Business,Office Supplies,Binders,492.91,87.24,7,0.05,Direct Debit
+ORD-2025222,2025-08-19,Asia Pacific,Consumer,Furniture,Chairs,157.38,14.35,1,0.3,PayPal
+ORD-2025223,2025-10-28,Europe,Corporate,Technology,Phones,1650.78,279.65,6,0.0,PayPal
+ORD-2025224,2025-09-03,Europe,Small Business,Office Supplies,Paper,773.46,119.79,7,0.2,PayPal
+ORD-2025225,2025-06-07,Asia Pacific,Corporate,Furniture,Bookcases,715.55,169.46,8,0.3,Direct Debit
+ORD-2025226,2025-06-10,Latin America,Consumer,Technology,Accessories,1744.63,426.85,12,0.1,PayPal
+ORD-2025227,2025-06-01,Europe,Consumer,Office Supplies,Art,202.17,55.74,4,0.05,Wire Transfer
+ORD-2025228,2025-05-12,Latin America,Small Business,Office Supplies,Storage,214.74,59.39,8,0.1,Direct Debit
+ORD-2025229,2025-10-05,North America,Small Business,Furniture,Tables,856.15,-89.36,2,0.3,Credit Card
+ORD-2025230,2025-02-04,Europe,Consumer,Technology,Phones,3610.87,1059.27,9,0.0,PayPal
+ORD-2025231,2025-12-04,Latin America,Consumer,Office Supplies,Art,628.06,-30.71,9,0.0,Credit Card
+ORD-2025232,2025-01-09,Latin America,Consumer,Office Supplies,Storage,133.46,32.57,2,0.05,Credit Card
+ORD-2025233,2025-07-23,North America,Corporate,Furniture,Bookcases,2208.01,460.36,8,0.3,Direct Debit
+ORD-2025234,2025-02-17,Latin America,Corporate,Technology,Laptops,3759.34,-331.59,9,0.3,Direct Debit
+ORD-2025235,2025-11-27,Asia Pacific,Small Business,Furniture,Furnishings,3758.95,1234.53,9,0.05,Credit Card
+ORD-2025236,2025-05-19,North America,Consumer,Office Supplies,Art,640.02,218.32,9,0.0,Wire Transfer
+ORD-2025237,2025-10-28,Europe,Small Business,Technology,Phones,543.81,146.62,2,0.2,Direct Debit
+ORD-2025238,2025-07-16,Europe,Small Business,Furniture,Bookcases,3133.64,-250.46,9,0.1,Credit Card
+ORD-2025239,2025-11-06,Latin America,Corporate,Technology,Accessories,2755.44,497.73,11,0.15,Credit Card
+ORD-2025240,2025-04-06,Latin America,Consumer,Furniture,Furnishings,1340.97,293.4,4,0.0,Wire Transfer
+ORD-2025241,2025-07-19,Asia Pacific,Corporate,Office Supplies,Binders,17.16,4.91,2,0.1,Credit Card
+ORD-2025242,2025-02-14,Europe,Corporate,Technology,Phones,4343.94,-507.53,9,0.15,Direct Debit
+ORD-2025243,2025-11-02,Asia Pacific,Corporate,Office Supplies,Paper,271.73,72.14,5,0.0,Credit Card
+ORD-2025244,2025-12-17,Latin America,Consumer,Technology,Phones,1367.17,-147.11,5,0.15,PayPal
+ORD-2025245,2025-06-03,Latin America,Consumer,Furniture,Furnishings,2138.44,410.74,5,0.3,Wire Transfer
+ORD-2025246,2025-02-24,Europe,Corporate,Technology,Monitors,2093.55,576.43,7,0.2,Credit Card
+ORD-2025247,2025-08-09,Europe,Corporate,Furniture,Bookcases,4289.12,677.15,10,0.05,Wire Transfer
+ORD-2025248,2025-05-30,Latin America,Small Business,Furniture,Bookcases,1202.53,370.36,6,0.15,PayPal
+ORD-2025249,2025-12-16,North America,Small Business,Technology,Phones,2375.52,295.0,12,0.1,Direct Debit
+ORD-2025250,2025-03-13,Asia Pacific,Consumer,Furniture,Furnishings,1228.23,145.36,11,0.15,Wire Transfer
